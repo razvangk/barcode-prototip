@@ -1,0 +1,11 @@
+C:\Users\Razvan\Desktop\Barcode Prototip\Barcode Prototip\bin\Debug\Barcode Prototip.exe.config
+C:\Users\Razvan\Desktop\Barcode Prototip\Barcode Prototip\bin\Debug\Barcode Prototip.exe
+C:\Users\Razvan\Desktop\Barcode Prototip\Barcode Prototip\bin\Debug\Barcode Prototip.pdb
+C:\Users\Razvan\Desktop\Barcode Prototip\Barcode Prototip\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Razvan\Desktop\Barcode Prototip\Barcode Prototip\obj\Debug\Barcode Prototip.csprojResolveAssemblyReference.cache
+C:\Users\Razvan\Desktop\Barcode Prototip\Barcode Prototip\obj\Debug\Barcode_Prototip.Form1.resources
+C:\Users\Razvan\Desktop\Barcode Prototip\Barcode Prototip\obj\Debug\Barcode_Prototip.Properties.Resources.resources
+C:\Users\Razvan\Desktop\Barcode Prototip\Barcode Prototip\obj\Debug\Barcode Prototip.csproj.GenerateResource.Cache
+C:\Users\Razvan\Desktop\Barcode Prototip\Barcode Prototip\obj\Debug\Barcode Prototip.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\Desktop\Barcode Prototip\Barcode Prototip\obj\Debug\Barcode Prototip.exe
+C:\Users\Razvan\Desktop\Barcode Prototip\Barcode Prototip\obj\Debug\Barcode Prototip.pdb
